@@ -1,0 +1,9 @@
+.container-fluid{background-color: #fff;padding: 0 0rem !important;}
+.row{padding:0 0 !important;margin: 0;}
+.dropdown-menu{border: 0 !important;box-shadow: 0 !important;padding-left:20px;}
+.navbar-nav{width: 100%;}
+.navbar-nav .dropdown-menu {
+    position: static !important;
+    background: none !important;
+}
+.nav-link{width: 100% !important;}
